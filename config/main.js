@@ -1,7 +1,7 @@
 // This changes the title of your site
 
 var sitename = "native.kevongames.net"; // Change this to change the name of your website.
-var subtext = "v1.2"; // set the subtext
+var subtext = "built diff fr"; // set the subtext
 
 // more settings in main.css
 
